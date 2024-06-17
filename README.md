@@ -33,6 +33,15 @@ kendilerine ait olan turları görmek onaylanmış,onay bekleyen ve gerçekleşe
 ![Ekran görüntüsü 2024-06-17 180301](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/1225c73a-9c93-4a28-800e-6b5fa3d68530)
 ![Ekran görüntüsü 2024-06-17 180331](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/179047c6-2033-48d7-b3ed-3f5eaef5d780)
 ![Ekran görüntüsü 2024-06-17 180350](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/f8e02ffb-b96e-4794-9134-d9c3b9e75922)
+![Ekran görüntüsü 2024-06-17 180417](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/71e82744-df2f-490d-acc2-b1ec4f887036)
+![Ekran görüntüsü 2024-06-17 180452](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/566b728a-1a8f-4f0d-8872-7dacc98851b4)
+![Ekran görüntüsü 2024-06-17 180609](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/c8182c69-f52b-4cdc-a55b-ca10bda40e33)
+![Ekran görüntüsü 2024-06-17 180646](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/28159560-5d48-4bf4-9304-5f142169a01b)
+![Ekran görüntüsü 2024-06-17 180812](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/88757694-75d1-487a-b9f5-e8e450c8a46a)
+![Ekran görüntüsü 2024-06-17 180931](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/d7861d6a-d239-4362-9461-a7c897845950)
+![Ekran görüntüsü 2024-06-17 180914](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/dbe4dee5-2359-4c37-89ff-10aa72cc1064)
+![Ekran görüntüsü 2024-06-17 180958](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/3266a6f4-3ff7-401d-b375-06c585b1d55a)
+![Ekran görüntüsü 2024-06-17 181427](https://github.com/Tunc4532/Asp.NetCoreTraversal/assets/121084967/f96ba0f7-7bf4-48e3-8e4d-1b5f60216716)
 
 
 
