@@ -1,0 +1,32 @@
+﻿@model List<ApiMovieViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    img {
+        border-radius: 30%;
+    }
+</style>
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+        <div class="col-xl-3 col-md-6 mb-4">
+            <div class="card border-0 shadow">
+                <img src="@item.image" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title mb-0">@item.title</h5>
+                        <div class="card-text text-black-50"><b>Yapım Yılı</b> @item.year</div>
+                        <div class="card-text text-black-50"><b>Imdb Puanı</b> @item.rating</div>
+                    
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>

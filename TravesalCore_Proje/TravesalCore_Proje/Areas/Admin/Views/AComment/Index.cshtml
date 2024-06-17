@@ -1,0 +1,59 @@
+﻿@using EntityLayer.Concrete
+@model List<Comment>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card mb-4">
+                <div class="card-header pb-0">
+                    <h6>Yorumlar</h6>
+                </div>
+                <div class="card-body px-0 pt-0 pb-2">
+                    <div class="table-responsive p-0">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"># </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Kullanıcı </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Blog</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Tarih</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Sil</th>
+                                </tr>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.CommentID</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.CommentUser</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Destination.DenID
+                                            </p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@(((DateTime)item.CommentDate).ToString("dd-MMM-yyyy"))</p>
+                                        </td>
+                                        <td>
+                                            <a href="/Admin/AComment/DeleteComment/@item.CommentID" class="btn btn-outline-danger">Sil</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            }
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

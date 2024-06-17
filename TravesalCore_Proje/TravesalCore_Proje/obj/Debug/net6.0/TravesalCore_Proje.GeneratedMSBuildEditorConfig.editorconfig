@@ -1,0 +1,387 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TravesalCore_Proje
+build_property.RootNamespace = TravesalCore_Proje
+build_property.ProjectDir = C:\Users\90536\OneDrive\Masaüstü\TravesalCore_Proje\TravesalCore_Proje\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\90536\OneDrive\Masaüstü\TravesalCore_Proje\TravesalCore_Proje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/AComment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQUNvbW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/ADashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQURhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/ADestination/AddDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQURlc3RpbmF0aW9uXEFkZERlc3RpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/ADestination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQURlc3RpbmF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/ADestination/UpdateDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQURlc3RpbmF0aW9uXFVwZGF0ZURlc3RpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/AGude/AddGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQUd1ZGVcQWRkR3VpZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/AGude/EditGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQUd1ZGVcRWRpdEd1aWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/AGude/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQUd1ZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Announcement/AddAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5ub3VuY2VtZW50XEFkZEFubm91bmNlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Announcement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5ub3VuY2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Announcement/UpdateAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5ub3VuY2VtZW50XFVwZGF0ZUFubm91bmNlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Api2TopMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpMlRvcE1vdmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/AUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQVVzZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/AUser/ReservationUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQVVzZXJcUmVzZXJ2YXRpb25Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/ContatUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGF0VXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/DestinationCQRS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25DUVJTXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Mail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Role/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Role/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxBc3NpZ25Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Role/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxVcGRhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/Role/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/VisitorApi/CreateVisitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxDcmVhdGVWaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/VisitorApi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/VisitorApi/UpdateVisitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxVcGRhdGVWaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXENvbW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/MDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXE1EYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/MDestination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXE1EZXN0aW5hdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFByb2ZpbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/Reservation/MyApprovalReservationn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlc2VydmF0aW9uXE15QXBwcm92YWxSZXNlcnZhdGlvbm4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/Reservation/MyCurrentReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlc2VydmF0aW9uXE15Q3VycmVudFJlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/Reservation/MyOldReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlc2VydmF0aW9uXE15T2xkUmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/Reservation/NewReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlc2VydmF0aW9uXE5ld1Jlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Areas/Member/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/AdminPartial/AppBrandDemo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsXEFwcEJyYW5kRGVtby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/AdminPartial/_AHeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsXF9BSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/AdminPartial/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/AdminPartial/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsXF9OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/AdminPartial/_PartialSaideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsXF9QYXJ0aWFsU2FpZGVCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/AdminPartial/_ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsXF9TY3JpcHRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Comment/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxBZGRDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Destination/DestinationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cRGVzdGluYXRpb25EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Guide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/LayoutPartial/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/LayoutPartial/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/LayoutPartial/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfTmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/LayoutPartial/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Login/SıgnIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU8SxZ25Jbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Login/SıgnUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU8SxZ25VcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/MemberLayoutPartial/_MFooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfTUZvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/MemberLayoutPartial/_MHeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfTUhlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/MemberLayoutPartial/_MNavbar2Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfTU5hdmJhcjJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/MemberLayoutPartial/_MNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfTU5hdmJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/MemberLayoutPartial/_MScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfTVNjcmlwdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/MemberLayoutPartial/_RightBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfUmlnaHRCYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/PasswordChange/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3dvcmRDaGFuZ2VcRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/PasswordChange/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3dvcmRDaGFuZ2VcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/Card1Statistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FyZDFTdGF0aXN0aWNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/Card2Statistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FyZDJTdGF0aXN0aWNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/Feature/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/SubAbout/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3ViQWJvdXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/Testimonial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/TotalRevenue/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG90YWxSZXZlbnVlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_ADashoardHeader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FEYXNob2FyZEhlYWRlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_CommentList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_DashboardBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZEJhbm5lclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_DestinationStatiistic2/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rlc3RpbmF0aW9uU3RhdGlpc3RpYzJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_DestinationStatiistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rlc3RpbmF0aW9uU3RhdGlpc3RpY1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_GudeListt/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0d1ZGVMaXN0dFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_GuideDetails/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0d1aWRlRGV0YWlsc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_GuideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0d1aWRlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_LastDestinations/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xhc3REZXN0aW5hdGlvbnNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_PatformSetting/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BhdGZvcm1TZXR0aW5nXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_PopularDestinationP/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BvcHVsYXJEZXN0aW5hdGlvblBcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_ProfieInformation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Byb2ZpZUluZm9ybWF0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_SliderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NsaWRlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Components/_Statistics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpc3RpY3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/_UILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VSUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90536/OneDrive/Masaüstü/TravesalCore_Proje/TravesalCore_Proje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4n0ul391xv

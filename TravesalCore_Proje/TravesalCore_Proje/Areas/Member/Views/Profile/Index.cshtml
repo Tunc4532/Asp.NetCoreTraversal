@@ -1,0 +1,34 @@
+﻿@model TravesalCore_Proje.Areas.Member.Models.UserEditViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h3 style="text-align: center">Profil Bilgileri Güncelleme Sayfası</h3>
+<form method="post" enctype="multipart/form-data">
+    @Html.Label("Adınnz")
+    <input type="text" asp-for="name" class="form-control" />
+    <br />
+    @Html.Label("Soyadınız")
+    <input type="text" asp-for="surname" class="form-control" />
+    <br />
+    @Html.Label("Şifreniz")
+    <input type="password" asp-for="password" class="form-control" />
+    <br />
+    @Html.Label("Tekrar Şifrenizz")
+    <input type="password" asp-for="confirmpassword" class="form-control" />
+    <br />
+    @Html.Label("Telefon Numaranız")
+    <input type="number" asp-for="Phonenumber" class="form-control" />
+    <br />
+    @Html.Label("Mail Adresiniz")
+    <input type="email" asp-for="email" class="form-control" />
+    <br />
+    <div class="form-group">
+        @Html.Label("Resim Seçiniz")
+        <input type="file" asp-for="image" class="form-control" />
+    </div>
+    <br />
+    <button class="btn btn-outline-info">Profil Güncelle</button>
+</form>

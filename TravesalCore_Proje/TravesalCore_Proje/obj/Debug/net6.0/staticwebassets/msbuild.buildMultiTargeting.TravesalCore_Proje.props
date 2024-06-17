@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TravesalCore_Proje.props" />
+</Project>

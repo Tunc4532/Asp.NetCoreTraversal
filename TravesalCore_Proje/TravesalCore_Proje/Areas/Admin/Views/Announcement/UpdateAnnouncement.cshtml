@@ -1,0 +1,27 @@
+﻿@model EntityLayer.Concrete.Announement
+
+@{
+    ViewData["Title"] = "UpdateAnnouncement";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3 style="text-align: center"> Duyuru Güncelleme Sayfası</h3>
+<form method="post">
+    @Html.HiddenFor(x => x.AnnounementId)
+    <div>
+        @Html.Label("Başlık")
+        <input type="text" asp-for="Tittle" class="form-control" />
+    </div>
+    <br />
+    <div>
+        @Html.Label("Tarih")
+        <input type="date" asp-for="DateAncmt" class="form-control" />
+    </div>
+    <br />
+    <div>
+        @Html.Label("konu")
+        <input type="text" asp-for="Content" class="form-control" />
+    </div>
+    <br />
+    <button class="btn btn-sm btn-outline-success">Güncelle</button>
+</form>

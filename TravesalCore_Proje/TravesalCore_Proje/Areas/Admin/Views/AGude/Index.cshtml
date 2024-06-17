@@ -1,0 +1,80 @@
+﻿@using EntityLayer.Concrete
+@model List<Guide>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int count = 0;
+}
+
+<style>
+    img{
+        border-radius:50%;
+
+    }
+</style>
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card mb-4">
+                <div class="card-header pb-0">
+                    <h6>Rehber Listemiz</h6>
+                </div>
+                <div class="card-body px-0 pt-0 pb-2">
+                    <div class="table-responsive p-0">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"># </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Görsel </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Ad Soyad </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Açıklama</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Durum</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Düzenle</th>
+                                </tr>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                count ++;
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@count</p>
+                                        </td>
+                                        <td>
+                                            <div>
+                                                <img src="@item.Image" class="avatar avatar-sm me-3" alt="user4">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Name</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Description</p>
+                                        </td>
+                                        @{
+
+                                            if(item.Status == true)
+                                            {
+                                                <td><a href="/Admin/AGude/ChamgeToFalse/@item.GuideID" class="btn btn-outline-danger">Pasif Yap</a></td>
+                                            }
+                                            else{
+                                                <td><a href="/Admin/AGude/ChamgeToTrue/@item.GuideID" class="btn btn-outline-success">Aktif Yap</a></td>
+                                            }
+
+                                        }
+                                        <td>
+                                            <a href="/Admin/AGude/EditGuide/@item.GuideID" class="btn btn-outline-primary">Düzenle</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="/Admin/AGude/AddGuide/" class="btn btn-outline-info">Yeni Rehber Oluştur</a>
+</div>

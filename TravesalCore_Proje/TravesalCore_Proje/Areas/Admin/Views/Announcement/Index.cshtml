@@ -1,0 +1,62 @@
+﻿@model List<TravesalCore_Proje.Areas.Admin.Models.AnnouncementViewListModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card mb-4">
+                <div class="card-header pb-0">
+                    <h6>Duyuru  Listesi</h6>
+                </div>
+                <div class="card-body px-0 pt-0 pb-2">
+                    <div class="table-responsive p-0">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"># </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Başlık </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">İçerrik</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Detaylar</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Sil</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Güncelle</th>
+                                </tr>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.ID</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Tittle</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Content</p>
+                                        </td>
+                                        <td>
+                                            <a href="#" class="btn btn-outline-warning">Detaylar</a>
+                                        </td>
+                                        <td>
+                                            <a href="/Admin/Announcement/DeleteAnnouncement/@item.ID" class="btn btn-outline-danger">Sil</a>
+                                        </td>
+                                        <td>
+                                            <a href="/Admin/Announcement/UpdateAnnouncement/@item.ID" class="btn btn-outline-primary">Güncelle</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            }
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<a href="/Admin/Announcement/AddAnnouncement/" class="btn btn-outline-info">Yeni Duyuru Oluştur</a>

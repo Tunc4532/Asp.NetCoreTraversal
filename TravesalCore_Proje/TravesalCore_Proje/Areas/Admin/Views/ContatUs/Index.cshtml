@@ -1,0 +1,63 @@
+﻿@model List<ContactUs>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int count = 0;
+}
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card mb-4">
+                <div class="card-header pb-0">
+                    <h6>Gelen Mail Listesi</h6>
+                </div>
+                <div class="card-body px-0 pt-0 pb-2">
+                    <div class="table-responsive p-0">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"># </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Gönderen </th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Konu</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Tarih</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Sil</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ">Mesajı Aç</th>
+                                </tr>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                count++;
+
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@count</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Name</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@item.Subject</p>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@(((DateTime)item.MessageDate).ToString("dd-MMM-yyyy"))</p>
+                                        </td>
+                                        <td>
+                                            <a href="#" class="btn btn-outline-danger">Sil</a>
+                                        </td> 
+                                        <td>
+                                            <a href="#" class="btn btn-outline-primary">Mesajı Görüntüle</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            }
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
